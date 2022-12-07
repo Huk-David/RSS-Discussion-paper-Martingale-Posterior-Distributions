@@ -1,2 +1,2 @@
-# RSS Discussion contributions paper on Martingale Posterior Distributions
+# RSS Discussion contribution paper on Martingale Posterior Distributions
 Code for a discusssion paper on Fong et al. Martingale posterior distributions, 2021 (link: https://doi.org/10.48550/arxiv.2103.15671). I have a notebook for reproducing some of the figures in the original paper, as well as doing experiements for our discussion contribution. The main focus of those is rebustness to miss-scpecification of the model.
